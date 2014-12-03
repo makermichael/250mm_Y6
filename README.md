@@ -1,13 +1,13 @@
 250mm_Y6
 ========
-
+<p></p>
 250mm Y6 Multicopter Frame in crv3d(Aspire), DXF and SVG. Prototype frame was machined from 3/16 Birch plywood. Design is made to be cut on a ShapeOko 2 CNC machine.
-</br></br>
+<p></p>
 Design Goals
 Create a "from stratch" mini FPV frame. Frame must be as small as possible for ease of transport, preferably in a Pelican or DIY case. Would be nice to get the frame to fit within the 12" x 12" cutting area of the ShapeOko 2 CNC machine. This project originally started out as a traditional hex layout with 5" props, but further research showed that the SunnySky S2204 motors produced more thrust and used less power when using 6" props. 6" props on a hex would have been larger than originally anticipated. Additionally, the frame would need to be cut in multiple pieces to fit on the ShapeOko, which would have required multiple bolts, adding weight. The Y6 configuration was chosen for compact design, simplicity, and redundency of failure (untested.)
-</br></br>
+<p></p>
 Maiden flight was made October 16th after extensive garage testing. Several test flights have been made since then. Frame is very solid and PIDs are nearly dialed in. Much potential here.
-</br></br>
+<p></p>
 Possible Future Upgrades:<ul>
 <li>FPV Goggles & Transmitter (ordered)</li>
 <li>DIY carbon fiber sandwich Panel for frame.</li>
@@ -15,7 +15,7 @@ Possible Future Upgrades:<ul>
 <li>Redesign landing gear</li>
 <li>Create battery tray (proximity of battery to prop is a concern.)</li>
 <li>Re-evaluate landing gear (current solution is not optimal.)</li>
-</br></br>
+<p></p>
 Bill of Materials:
 <ul>
 	<li>1 x 12" x 12" x 3/16" Birch plywood (likely to convert to CF sandwich panel in future.)</li>
