@@ -15,7 +15,8 @@ Possible Future Upgrades:<ul>
 <li>Redesign landing gear</li>
 <li>Create battery tray (proximity of battery to prop is a concern.)</li>
 <li>Re-evaluate landing gear (current solution is not optimal.)</li>
-<p></p>
+</ul><p></p>
+
 Bill of Materials:
 <ul>
 	<li>1 x 12" x 12" x 3/16" Birch plywood (likely to convert to CF sandwich panel in future.)</li>
